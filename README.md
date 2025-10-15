@@ -1,14 +1,14 @@
-# 🧠 OS Lab Simulator (Operating System Visualizer)
+#  OS Lab Simulator (Operating System Visualizer)
 
-### 📘 Course: TCS-502 — Operating System  
-### 👥 Team OS-V T262 — *"Challengers"*
+###  Course: TCS-502 — Operating System  
+###  Team OS-V T262 — *"Challengers"*
 
 > A web-based simulator designed to **visualize core Operating System concepts** like CPU Scheduling, Memory Management, Deadlock Handling, and File System operations.  
 > Built using **HTML, CSS, JavaScript**, and **Python (Flask)** for algorithm computation and backend API integration.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 The **OS Visualizer** provides an **interactive learning experience** for students to understand how OS algorithms work internally — through **real-time simulations and visual outputs**.
 
@@ -16,7 +16,7 @@ Instead of reading static diagrams, users can **add processes, allocate memory, 
 
 ---
 
-## 🧩 Features
+##  Features
 
 | Module | Description | Status |
 |---------|--------------|--------|
@@ -28,7 +28,7 @@ Instead of reading static diagrams, users can **add processes, allocate memory, 
 
 ---
 
-## 🏗️ Project Architecture
+##  Project Architecture
 
 ### **Client-Server Model**
 
